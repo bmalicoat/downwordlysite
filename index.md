@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# Downwordly
 
-You can use the [editor on GitHub](https://github.com/bmalicoat/downwordlysite/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hi! Thanks for checking out Downwordly. Please read the FAQ below to answer any questions you might have. If you don't see an answer, feel free to [send me a message](mailto:bmalicoat@gmail.com?subject=Downwordly) directly.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Multiplayer
 
-### Markdown
+<b>How do I play Multiplayer?</b>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Make sure you have enabled GameCenter in your iOS Settings.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<b>How can I play my friend?</b>
 
-- Bulleted
-- List
+Add your friend by their GameCenter name in your iOS Settings.
 
-1. Numbered
-2. List
+## Other
 
-**Bold** and _Italic_ and `Code` text
+<b>Isn't this a word?</b>
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bmalicoat/downwordlysite/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+It might be! Downwordly uses a dictionary similar to other word games and doesn't allow proper names and some other words you may find in a dictionary. If you think you found a word that should be accepted but isn't, let me know!
+ 
+ 
