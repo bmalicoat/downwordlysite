@@ -18,3 +18,6 @@ Add your friend by their GameCenter name in your iOS Settings.
 It might be! Downwordly uses a dictionary similar to other word games and doesn't allow proper names and some other words you may find in a dictionary. If you think you found a word that should be accepted but isn't, let me know!
  
  
+## Privacy
+
+Downwordly collects zero information about you. I hope you're having a good life, but I'm not interested in tracking all the details :)
